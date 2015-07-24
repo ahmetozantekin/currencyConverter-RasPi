@@ -3,4 +3,4 @@ ___
 
 Simple currency converter using yahoo finance api for RaspberryPi.
 
-![ ](http://www.ziondetroit.org/assets/site/yahoo!.gif)
+![he said MONEY](http://www.manatwar.es/wp-content/uploads/logo-Napoleon3.png)
